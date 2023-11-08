@@ -24,10 +24,6 @@ Developed by: Dinesh.M
 RegisterNumber: 212222040039
 
 
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: YOKESH.D
-RegisterNumber:  212222220061
-
 import pandas as pd
 data=pd.read_csv("/content/Salary(1).csv")
 print('data.head():')
