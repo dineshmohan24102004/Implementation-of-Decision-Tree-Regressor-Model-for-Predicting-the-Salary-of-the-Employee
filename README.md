@@ -23,7 +23,7 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: Dinesh.M
 RegisterNumber: 212222040039
 
-/*
+
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: YOKESH.D
 RegisterNumber:  212222220061
@@ -58,14 +58,25 @@ r2 = metrics.r2_score(y_test,y_pred)
 r2
 print('data prediction:')
 dt.predict([[5,6]])
-*/
+
 
 
 */
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/d972481c-fd2a-494e-8df7-476e016eda2e)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/53e52d4d-9f81-4f07-8ec6-ecc2e695cad1)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/22cda992-ca45-4396-9ce8-262e2a986b0b)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/e44bc27b-e936-46cd-82bb-c94a6a7508d7)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/a06e1d07-37eb-4de3-8f6c-46683e40b386)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/eaf88e20-bfed-417a-9879-00eafd4bacda)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/cb258edf-e404-4d5a-8f46-f4424c2ded90)
+
+
+
+
+
 
 
 ## Result:
