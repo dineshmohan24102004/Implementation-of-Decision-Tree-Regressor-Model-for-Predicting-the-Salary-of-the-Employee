@@ -65,9 +65,13 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+## data.head()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/d972481c-fd2a-494e-8df7-476e016eda2e)
+## data.info()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/53e52d4d-9f81-4f07-8ec6-ecc2e695cad1)
+## isnull()&sum()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/22cda992-ca45-4396-9ce8-262e2a986b0b)
+
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/e44bc27b-e936-46cd-82bb-c94a6a7508d7)
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/a06e1d07-37eb-4de3-8f6c-46683e40b386)
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119478475/eaf88e20-bfed-417a-9879-00eafd4bacda)
